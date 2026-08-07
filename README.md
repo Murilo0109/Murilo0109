@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá, Eu sou Murilo 👋
 
-<!--
-**Murilo0109/Murilo0109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Análise e Desenvolvimento de Sistemas 🌐 Desenvolvendo sites com HTML • CSS • JavaScript 🎯 Buscando estágio para colocar em prática e aprender!
 
-Here are some ideas to get you started:
+🚀 O que estou fazendo:
+📂 Criando projetos e colocando aqui no GitHub
+📚 Aprendendo mais sobre programação web e versionamento
+🤝 Aberto a oportunidades e dicas!
+🛠️ Tecnologias que conheço:
+HTML5 | CSS3 | JavaScript |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Como me encontrar:
+💼 Disponível para vagas de estágio em TI!
+"Aprendendo cada dia mais para me tornar um ótimo desenvolvedor!" 💪
