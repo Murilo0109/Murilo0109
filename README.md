@@ -9,6 +9,6 @@
 🛠️ Tecnologias que conheço:
 HTML5 | CSS3 | JavaScript |
 
-📫 Como me encontrar:
 💼 Disponível para vagas de estágio em TI!
+
 "Aprendendo cada dia mais para me tornar um ótimo desenvolvedor!" 💪
