@@ -1,4 +1,4 @@
-## Olá, Eu sou Murilo 👋
+## Olá, me chamo Murilo 👋
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas 🌐 Desenvolvendo sites com HTML • CSS • JavaScript 🎯 Buscando estágio para colocar em prática e aprender!
 
